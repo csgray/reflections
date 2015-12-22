@@ -21,3 +21,7 @@ How would branches help?
 	They let you make radical changes without jeopardizing the core of the project.
 	The different branch names are easier to work with than ID numbers.
 	You can see how many different versions of the code there are with one command.
+
+How do the diagrams help you visualize the branch structure?
+	The diagrams show how branches launch off from different parent commits.
+	They also show how commits don't talk with one another or can be lost.

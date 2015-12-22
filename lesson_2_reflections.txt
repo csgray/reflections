@@ -14,4 +14,10 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical change?
 	Even if you edit multiple documents, you can save only one at a time.
 	You can check your differences between the staging area and the most recent commit then save the one change.
-	
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?	
+	Branches keep experimental changes separate from the stable, primary version of the code.
+	They let you make radical changes without jeopardizing the core of the project.
+	The different branch names are easier to work with than ID numbers.
+	You can see how many different versions of the code there are with one command.

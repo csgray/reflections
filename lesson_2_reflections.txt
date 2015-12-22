@@ -25,3 +25,8 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 	The diagrams show how branches launch off from different parent commits.
 	They also show how commits don't talk with one another or can be lost.
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+	Merging combines the changes of two branches relative a shared parent into once branch.
+	The diagram shows how the merged branch comes from two parent commits.

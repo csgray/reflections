@@ -11,3 +11,7 @@ What value do you think it offers?
 	The staging area's value is that it allows you to select which files are saved as part of the commit.
 	Otherwise a commit would contain everything in the repository which would group too many changes together.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	Even if you edit multiple documents, you can save only one at a time.
+	You can check your differences between the staging area and the most recent commit then save the one change.
+	

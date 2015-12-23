@@ -30,3 +30,7 @@ What is the result of merging two branches together?
 Why do we represent it in the diagram the way we do?
 	Merging combines the changes of two branches relative a shared parent into once branch.
 	The diagram shows how the merged branch comes from two parent commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	PRO: Saves time and effort
+	CON: Git might make a mistake or merge something you didn't intend to merge

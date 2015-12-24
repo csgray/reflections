@@ -17,3 +17,6 @@ When would you use one instead of another?
 	Use branches when you're adding new features or otherwise changing a project.
 	Use clones when you want a copy of an entire project for your own use.
 	Use forks when you want a copy of someone else's project from GitHub.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	That is what allows Git to know what has changed with the remote since you last checked in.

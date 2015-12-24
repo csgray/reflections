@@ -20,3 +20,8 @@ When would you use one instead of another?
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	That is what allows Git to know what has changed with the remote since you last checked in.
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+	We would probably manually save versions of our code in a shared Google Drive or Dropbox.
+	That would be much more difficult than managing commits and branches.
